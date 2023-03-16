@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🙂 My name is Omar Basheer
-- 🎓 Computer Science Major | Ashesi University
+- 🎓 Computer Science Major | Ashesi University, Ghana
 - 🌱 I’m currently learning serverless technology
 - 🔭 Also working on myself. Code isn't the only thing I'm building...
 
@@ -27,4 +27,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-basheer&theme=algolia)](https://git.io/streak-stats)
 [![Omar Basheer's Github Stats](https://github-readme-stats.vercel.app/api?username=omar-basheer&show_icons=true&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/kid_omar/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kid_omar?theme=dark)](https://leetcode.com/kid_omar/)
