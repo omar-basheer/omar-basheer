@@ -25,7 +25,7 @@
 # My Stats😬
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-basheer&theme=algolia)](https://git.io/streak-stats)
 [![Omar Basheer's Github Stats](https://github-readme-stats.vercel.app/api?username=omar-basheer&show_icons=true&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&theme=algolia)](https://github.com/omar-basheer/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/kid_omar?theme=dark)](https://leetcode.com/kid_omar/) -->
 #
 
