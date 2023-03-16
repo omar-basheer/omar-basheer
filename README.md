@@ -2,7 +2,7 @@
 
 - 🙂 My name is Omar Basheer
 - 🎓 Computer Science Major | Ashesi University, Ghana
-- 🌱 I’m currently learning serverless technology
+- 🌱 Currently learning serverless web technology
 - 🧘🏽‍♂️ Also working on myself. Code isn't the only thing I'm building...
 
 # 
