@@ -27,3 +27,7 @@
 [![Omar Basheer's Github Stats](https://github-readme-stats.vercel.app/api?username=omar-basheer&show_icons=true&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/kid_omar?theme=dark)](https://leetcode.com/kid_omar/) -->
+#
+
+#### Hold up...
+- The "most used languages" card is showing the languages in my public repos, not neccessarily my skill level in them.
