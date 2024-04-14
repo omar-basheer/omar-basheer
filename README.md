@@ -1,4 +1,6 @@
-<img src="img/sunset_bg.jpeg" />
+<img src="img/pxfuel (8).jpg" />
+
+---
 
 <div align="center"> 
 
@@ -17,7 +19,8 @@
 
 # Some stuff I've worked with 🛠️:
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,react,js,ts,md,mysql,php,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,mysql&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,md,mysql,php,html,css&perline=8" />
 <!-- <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=django"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
