@@ -40,6 +40,6 @@
 
 ### Hold up...
 
-The "most used languages" card is showing the languages in my public repos, not neccessarily my skill level in them.
+The "top languages" card is showing the languages in my public repos, not neccessarily my skill level in them.
 
 </div>
