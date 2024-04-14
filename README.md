@@ -5,6 +5,9 @@
 ---
 
 # Hi there 👋
+
+<img src="img/hi_there.png" />
+
 🙂 My name is Omar Basheer
 
 🎓 Computer Science Major | Ashesi University, Ghana
@@ -33,6 +36,7 @@
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/omar-basheer?theme=dark)](https://leetcode.com/omar-basheer/) -->
 
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 ---
 
 ### Hold up...
