@@ -4,8 +4,7 @@
 
 ---
 
-
-<img width=550px src="img/hi2.png" />
+<img width=550px src="img/hi3.png" />
 
 #### 🙂 My name is Omar Basheer
 
@@ -16,7 +15,7 @@
 #### 🧘🏽‍♂️ Also working on myself. Code isn't the only thing I'm building...
 
 ---
-<img width=650px src="img/stuff.png" />
+<img width=550px src="img/stuff2.png" />
 
 <img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,mysql&perline=10" />
 <img src="https://skillicons.dev/icons?i=react,js,ts,md,mysql,php,html,css&perline=8" />
@@ -25,7 +24,7 @@
 
 ---
 
-<img width=500px src="img/stats.png" />
+<img width=400px src="img/stats2.png" />
 
 <img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=bcb28d&title_color=f4cd7c&icon_color=00AEFF">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=00000000&text_color=bcb28d&custom_title=Top+Languages&title_color=f4cd7c">
