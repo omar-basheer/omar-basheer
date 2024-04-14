@@ -1,5 +1,5 @@
 <!-- <img src="img/pxfuel (9).jpg" /> -->
-<img src="img/inf.png" />
+<img src="img/inf3.png" />
 
 ---
 
@@ -41,8 +41,8 @@
 
 
 
-<img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=bcb28d&title_color=fad000&icon_color=00AEFF">
-<img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=00000000&text_color=bcb28d&custom_title=Top+Languages&title_color=fad000">
+<img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=bcb28d&title_color=f4cd7c&icon_color=00AEFF">
+<img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=00000000&text_color=bcb28d&custom_title=Top+Languages&title_color=f4cd7c">
 
 <!-- <img alt="Top Langs" width="350" src="https://github-readme-streak-stats.vercel.app/api/?username=omar-basheer&layout=compact&hide_border=true&bg_color=00000000&text_color=bcb28d&custom_title=Top+Languages&title_color=e03c8a"> -->
 
