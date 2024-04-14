@@ -5,7 +5,7 @@
 ---
 
 
-<img width=700px src="img/hi.png" />
+<img width=550px src="img/hi2.png" />
 
 #### 🙂 My name is Omar Basheer
 
@@ -16,7 +16,7 @@
 #### 🧘🏽‍♂️ Also working on myself. Code isn't the only thing I'm building...
 
 ---
-<img width=600px src="img/stuff.png" />
+<img width=650px src="img/stuff.png" />
 
 <img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,mysql&perline=10" />
 <img src="https://skillicons.dev/icons?i=react,js,ts,md,mysql,php,html,css&perline=8" />
