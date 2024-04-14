@@ -26,6 +26,7 @@
 
 <img width=400px src="img/stats2.png" />
 
+
 <img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=bcb28d&title_color=f4cd7c&icon_color=00AEFF">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=00000000&text_color=bcb28d&custom_title=Top+Languages&title_color=f4cd7c">
 
