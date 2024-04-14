@@ -18,8 +18,8 @@
 <img width=550px src="img/stuff2.png" />
 
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,mysql&perline=10" />
-<img src="https://skillicons.dev/icons?i=react,js,ts,md,mysql,php,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,laravel&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,md,mysql,postgres,html,css&perline=8" />
 
 <!-- <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
