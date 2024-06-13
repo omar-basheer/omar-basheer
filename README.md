@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="img/inf.png" />
+<!-- <img src="img/inf.png" /> -->
+<img width=450px src="img/prowler logo 3.png" />
 
 ---
 
-<img width=550px src="img/hi3.png" />
+<img width=650px src="img/hi2.png" />
 
 #### 🙂 My name is Omar Basheer
 
@@ -15,7 +16,7 @@
 #### 🧘🏽‍♂️ Also working on myself. Code isn't the only thing I'm building...
 
 ---
-<img width=550px src="img/stuff2.png" />
+<img width=650px src="img/stuff3.png" />
 
 
 <img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,laravel&perline=10" />
@@ -25,7 +26,7 @@
 
 ---
 
-<img width=500px src="img/stats2.png" />
+<img width=700px src="img/stats3.png" />
 
 
 <img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=bcb28d&title_color=f4cd7c&icon_color=00AEFF">
