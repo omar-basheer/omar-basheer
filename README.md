@@ -5,7 +5,7 @@
 
 ---
 
-<img width=650px src="img/hi.png" />
+<img width=450px src="img/hi2 copy.png" />
 
 #### 🙂 My name is Omar Basheer
 
@@ -34,10 +34,10 @@
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omar-basheer&theme=ayu-mirage&hide_border=true&background=EB545400" alt="GitHub Streak" /></a> -->
 
-<img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=010000&hide_border=true&show_icons=true&text_color=E0438A&title_color=4141EE&icon_color=00AEFF">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=010000&text_color=E0438A&custom_title=Top+Languages&title_color=4141EE">
+<img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=0D1117&hide_border=true&show_icons=true&text_color=E0438A&title_color=4141EE&icon_color=00AEFF">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=0D1117&text_color=E0438A&custom_title=Top+Languages&title_color=4141EE">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omar-basheer&background=010000&dates=4141EE&currStreakNum=E0438A&currStreakLabel=4141EE&ring=E0438A&sideNums=E0438A&sideLabels=4141EE&fire=E0438A&border=090A1E&stroke=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omar-basheer&background=0D1117&dates=4141EE&currStreakNum=E0438A&currStreakLabel=4141EE&ring=4141EE&sideNums=E0438A&sideLabels=4141EE&fire=E0438A&border=090A1E&stroke=EBEBEB" alt="GitHub Streak" /></a>
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/omar-basheer?theme=dark)](https://leetcode.com/omar-basheer/) -->
 
