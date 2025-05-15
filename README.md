@@ -9,9 +9,9 @@
 
 #### 🙂 My name is Omar Basheer
 
-#### 🎓 Computer Science Major | Ashesi University, Ghana
+#### 🎓 Computer Science Graduate | Ashesi University, Ghana
 
-#### 🌱 Currently learning react and typescript
+#### 🌱 Currently learning backend development (broad scope, I know, I'm in my exploring phase 🔭)
 
 #### 🧘🏽‍♂️ Also working on myself. Code isn't the only thing I'm building...
 
