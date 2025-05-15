@@ -19,8 +19,9 @@
 <img width=650px src="img/stuff4.png" />
 
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,python,django,git,github,php,laravel&perline=10" />
-<img src="https://skillicons.dev/icons?i=react,js,ts,md,mysql,postgres,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,php,dart,js,ts,html,css,md&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,github,flutter,react,django,laravel&perline=10" />
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres&perline=8" />
 
 <!-- <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
