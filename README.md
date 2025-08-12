@@ -9,7 +9,7 @@
 
 ---
 
-## <span style="text-decoration: none;">🚀 What I Build</span>
+# <span style="text-decoration: none;">🚀 What I Build</span>
 **Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV)
 
 **Web APIs & Platforms** – APIs for digital asset valuation used by insurers (Node.js, Express, MongoDB)
@@ -22,7 +22,7 @@
 
 ---
 
-## <span style="text-decoration: none;">🛠 Tech Stack</span>
+# <span style="text-decoration: none;">🛠 Tech Stack</span>
 
 ### Backend, Databases & Hosting:
 <img src="https://skillicons.dev/icons?i=go,python,django,express,tensorflow,pytorch&perline=10" />
@@ -34,7 +34,7 @@
 
 ---
 
-## <span style="text-decoration: none;">📊 GitHub Stats</span>
+# <span style="text-decoration: none;">📊 GitHub Stats</span>
 
 <img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=0D1117&hide_border=true&show_icons=true&text_color=E0438A&title_color=4141EE&icon_color=00AEFF">
 
