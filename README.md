@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 **What I Build**
+<h2 align="center" style="border-bottom:none">🚀 <b>What I Build</b></h2>
 **Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV)
 
 **Web APIs & Platforms** – APIs for digital asset valuation used by insurers (Node.js, Express, MongoDB)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 **Tech Stack**
+<h2 align="center" style="border-bottom:none">🛠 <b>Tech Stack</b></h2>
 
 ### Backend, Databases & Hosting:
 <img src="https://skillicons.dev/icons?i=go,python,django,express,tensorflow,pytorch&perline=10" />
@@ -34,15 +34,10 @@
 
 ---
 
-[//]: # (### Other)
-[//]: # (<img src="https://skillicons.dev/icons?i=git,github&perline=9" />)
-
-
-## 📊 **GitHub Stats**
+<h2 align="center" style="border-bottom:none">📊 <b>GitHub Stats</b></h2>
 
 <img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=0D1117&hide_border=true&show_icons=true&text_color=E0438A&title_color=4141EE&icon_color=00AEFF">
 
-[//]: # (<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&hide_border=true&bg_color=0D1117&text_color=E0438A&custom_title=Top+Languages&title_color=4141EE">)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omar-basheer&background=0D1117&dates=4141EE&currStreakNum=E0438A&currStreakLabel=4141EE&ring=4141EE&sideNums=E0438A&sideLabels=4141EE&fire=E0438A&border=090A1E&stroke=EBEBEB" alt="GitHub Streak" /></a>
 
 ---
