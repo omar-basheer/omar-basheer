@@ -1,6 +1,6 @@
 <div id="user-content-toc" align="center">
 
-<img width=450px src="img/hey.png" />
+<img width=400px src="img/hey.png" />
 
 #### 🙂 My name is **Omar Basheer**
 #### 🎓 Computer Science Graduate | Ashesi University, Ghana
@@ -9,7 +9,15 @@
 
 ---
 
-# <span style="text-decoration: none;">🚀 What I Build</span>
+<!-- 🚀 WHAT I BUILD -->
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>🏗️ What I Build</h2>
+    </summary>
+  </ul>
+</div>
+
 **Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV)
 
 **Web APIs & Platforms** – APIs for digital asset valuation used by insurers (Node.js, Express, MongoDB)
@@ -22,19 +30,34 @@
 
 ---
 
-# <span style="text-decoration: none;">🛠 Tech Stack</span>
+<!-- 🛠 TECH STACK -->
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>🛠 Tech Stack</h2>
+    </summary>
+  </ul>
+</div>
 
 ### Backend, Databases & Hosting:
-<img src="https://skillicons.dev/icons?i=go,python,django,express,tensorflow,pytorch&perline=10" />
+<img src="https://skillicons.dev/icons?i=go,python,django,express,tensorflow,pytorch&perline=10" />  
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,gcp,azure&perline=10" />
 
 ---
+
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,js,ts,html&perline=10" />
 
 ---
 
-# <span style="text-decoration: none;">📊 GitHub Stats</span>
+<!-- 📊 GITHUB STATS -->
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>📉 GitHub Stats</h2>
+    </summary>
+  </ul>
+</div>
 
 <img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=0D1117&hide_border=true&show_icons=true&text_color=E0438A&title_color=4141EE&icon_color=00AEFF">
 
@@ -42,7 +65,7 @@
 
 ---
 
-📫 **Contact**
+📫 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](YOUR-RESUME-LINK)
 
 ---
