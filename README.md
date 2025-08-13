@@ -18,7 +18,7 @@
   </ul>
 </div>
 
-**AI-Enhanced Apps** – *Clerk*: AI-native spreadsheet app (Go backend, TypeScript frontend, Google Cloud) | [Repo](https://github.com/ClerkOS)
+**AI-Enhanced Apps** – e.g. *Clerk*: AI-native spreadsheet app (Go backend, TypeScript frontend, Google Cloud) | [Repo](https://github.com/ClerkOS)
 
 **Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV) | [Repo](https://github.com/omar-basheer/GodsEye)
 
