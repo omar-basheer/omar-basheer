@@ -18,13 +18,13 @@
   </ul>
 </div>
 
-**Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV)
+**AI-Enhanced Apps** – *Clerk*: AI-native spreadsheet app (Go backend, TypeScript frontend, Google Cloud) | [Repo](https://github.com/ClerkOS)
 
-**Web APIs & Platforms** – APIs for digital asset valuation used by insurers (Node.js, Express, MongoDB)
+**Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV) | [Repo](https://github.com/omar-basheer/GodsEye)
 
-**AI-Enhanced Apps** – *Clerk*: AI-native spreadsheet app (Go backend, TypeScript frontend, Google Cloud)
+**Web APIs & Platforms** – APIs for an online asset valuation platform used by insurers (Node.js, Express, MongoDB) | [Repo](https://github.com/redpear-national/davp-backend)
 
-**Developer Tools** – *ClickTL*: CLI tool for updating ClickUp tasks (JavaScript, published on npm)
+**Developer Tools** – *ClickTL*: CLI tool for updating ClickUp tasks (JavaScript, published on npm) |  [Package](https://www.npmjs.com/package/clickctl?activeTab=readme)
 
 💡 Whether it's backend APIs, cloud deployments, CLI utilities, or AI-powered apps, I enjoy turning ideas into working software.
 
