@@ -70,6 +70,6 @@
 
 ---
 
-⚡ *Fun fact:* 🧘🏾‍♂️Consistently working on myself — Code isn’t the only thing I’m building.
+⚡ *Fun fact:* ️Consistently working on myself 🧘🏾‍♂️ — Code isn’t the only thing I’m building.
 
 </div>
