@@ -66,7 +66,7 @@
 ---
 
 📫 **Contact**  
-[LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](https://drive.google.com/file/d/1xezX8IZSNcF9iRRNBfTQEVGgUXLQ0Z9x/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](https://docs.google.com/document/d/1y11rrOvaSG-ypddneP_y5YgDkhemW3ESv9P-YB8fX-A/edit?usp=sharing)
 
 ---
 
