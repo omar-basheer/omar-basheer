@@ -36,8 +36,6 @@ Before this, I spent a year at **RedPear Communications** co-building the backen
 
 **[clickctl](https://www.npmjs.com/package/clickctl)** — CLI for updating ClickUp tasks without leaving the terminal. Published on npm.
 
-**[DAVP](https://github.com/redpear-national/davp-backend)** — the asset valuation backend above. Node.js, Express, MongoDB.
-
 💡 Backend APIs, cloud deployments, CLI utilities, AI-assisted tooling — I like turning ideas into software that holds up in production.
 
 ---
