@@ -5,7 +5,7 @@
 #### 🙂 My name is **Omar Basheer**
 #### 🎓 Computer Science Graduate | Ashesi University, Ghana
 #### 💻 Backend Development | Cloud & API Design | Applied Machine Learning & AI Projects
-#### 🌍 Open to Remote Junior Software Engineer Roles
+#### 🌍 Open to Software Engineer Roles
 
 ---
 
