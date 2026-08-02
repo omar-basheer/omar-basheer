@@ -1,75 +1,87 @@
-<div id="user-content-toc" align="center">
+<div align="center">
 
-<img width=400px src="img/hey.png" />
+<img src="img/hey.png" width="400" alt="Hey — I'm Omar" />
 
-#### 🙂 My name is **Omar Basheer**
-#### 🎓 Computer Science Graduate | Ashesi University, Ghana
-#### 💻 Backend Development | Cloud & API Design | Applied Machine Learning & AI Projects
-#### 🌍 Open to Software Engineer Roles
+# Omar Basheer
 
----
+**Backend Engineer at Affinity Africa** · Accra, Ghana
 
-<!-- 🚀 WHAT I BUILD -->
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>🏗️ What I Build</h2>
-    </summary>
-  </ul>
-</div>
+Go · gRPC · microservices · distributed financial systems
 
-**AI-Enhanced Apps** – e.g. *Clerk*: AI-native spreadsheet app (Go backend, TypeScript frontend, Google Cloud) | [Repo](https://github.com/ClerkOS)
-
-**Real-time AI Tools** – e.g. *GodsEye*: facial recognition search in live video feeds (Python, OpenCV) | [Repo](https://github.com/omar-basheer/GodsEye)
-
-**Web APIs & Platforms** – e.g. APIs for an online asset valuation platform used by insurers (Node.js, Express, MongoDB) | [Repo](https://github.com/redpear-national/davp-backend)
-
-**Developer Tools** – e.g. *ClickTL*: CLI tool for updating ClickUp tasks (JavaScript, published on npm) |  [Package](https://www.npmjs.com/package/clickctl?activeTab=readme)
-
-💡 Whether it's backend APIs, cloud deployments, CLI utilities, or AI-powered apps, I enjoy turning ideas into working software.
-
----
-
-<!-- 🛠 TECH STACK -->
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>🛠 Tech Stack</h2>
-    </summary>
-  </ul>
-</div>
-
-### Backend, Databases & Hosting:
-<img src="https://skillicons.dev/icons?i=go,python,django,express,tensorflow,pytorch&perline=10" />  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,gcp,azure&perline=10" />
-
----
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,ts,html&perline=10" />
-
----
-
-<!-- 📊 GITHUB STATS -->
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>📉 GitHub Stats</h2>
-    </summary>
-  </ul>
-</div>
-
-<img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=0D1117&hide_border=true&show_icons=true&text_color=E0438A&title_color=4141EE&icon_color=00AEFF">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omar-basheer&background=0D1117&dates=4141EE&currStreakNum=E0438A&currStreakLabel=4141EE&ring=4141EE&sideNums=E0438A&sideLabels=4141EE&fire=E0438A&border=090A1E&stroke=EBEBEB" alt="GitHub Streak" /></a>
-
----
-
-📫 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](https://docs.google.com/document/d/1y11rrOvaSG-ypddneP_y5YgDkhemW3ESv9P-YB8fX-A/edit?usp=sharing)
 
+</div>
+
 ---
 
-⚡ *Fun fact:* ️Consistently working on myself 🧘🏾‍♂️ — Code isn’t the only thing I’m building.
+## 💼 What I Work On
+
+I build backend systems where correctness actually matters — money movement, ledgers, and the services around them.
+
+At **Affinity Africa**, I'm part of a team replacing our third-party core banking platform with an in-house system: Go microservices communicating over gRPC. The pieces I own:
+
+- **Ledger & accounting** — every financial event recorded as double-entry journal entries under the correct general ledgers; the ledger service queues and processes deposits, withdrawals, transfers, write-offs, payoffs, and interest applications.
+- **Loan servicing** — schedule generation and interest calculation, including amortisation logic that models repayment across loan products.
+- **Test coverage** — unit and integration suites across every core service: configurations, customers, products, accounts, ledger, accounting, documents, approvals, and shared utilities.
+
+Before this, I spent a year at **RedPear Communications** co-building the backend of a digital asset valuation platform — 100+ REST APIs serving 50+ insurers, covering VIN decoding, automated depreciation, AI-driven image verification, payments, subscriptions, and real-time notifications.
+
+---
+
+## 🏗️ What I've Built
+
+**[Clerk](https://github.com/ClerkOS)** — AI-native spreadsheet application. Go backend handling sheet chunking, dependency tracking, and context-aware embeddings, with a hash-tree mechanism that tracks cell edits and re-embeds only what changed. TypeScript + React frontend with a browser-based grid, formulas, and a conversational assistant.
+
+**[GodsEye](https://github.com/omar-basheer/GodsEye)** — real-time facial recognition across video streams. Face detection, vector similarity search, and timestamp localisation, with multi-face recognition and ranked similarity output. Python.
+
+**[clickctl](https://www.npmjs.com/package/clickctl)** — CLI for updating ClickUp tasks without leaving the terminal. Published on npm.
+
+**[DAVP](https://github.com/redpear-national/davp-backend)** — the asset valuation backend above. Node.js, Express, MongoDB.
+
+💡 Backend APIs, cloud deployments, CLI utilities, AI-assisted tooling — I like turning ideas into software that holds up in production.
+
+---
+
+## 🛠 Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,java&perline=10" alt="Go, Python, TypeScript, JavaScript, Java" />
+
+**Backend & APIs** — plus gRPC and Protocol Buffers
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&perline=10" alt="Node.js, Express, Django, Flask" />
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,docker,git&perline=10" alt="PostgreSQL, MongoDB, Google Cloud, Docker, Git" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css&perline=10" alt="React, HTML, CSS" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img alt="Omar's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=omar-basheer&custom_title=Github+Stats&bg_color=0D1117&hide_border=true&show_icons=true&text_color=E0438A&title_color=58A6FF&icon_color=00AEFF" />
+
+<a href="https://github.com/omar-basheer">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=omar-basheer&background=0D1117&dates=4F8CFF&currStreakNum=E0438A&currStreakLabel=4F8CFF&ring=4F8CFF&sideNums=E0438A&sideLabels=4F8CFF&fire=E0438A&border=090A1E&stroke=EBEBEB" />
+</a>
 
 </div>
+
+---
+
+## 📫 Reach Me
+
+[LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](https://docs.google.com/document/d/1y11rrOvaSG-ypddneP_y5YgDkhemW3ESv9P-YB8fX-A/edit?usp=sharing)
+
+Not actively looking, but always happy to talk backend systems, fintech infrastructure, or a genuinely hard problem.
+
+---
+
+⚡ *Fun fact:* Consistently working on myself 🧘🏾‍♂️ — code isn't the only thing I'm building.
