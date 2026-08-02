@@ -2,7 +2,7 @@
 
 <img src="img/hey.png" width="400" alt="Hey — I'm Omar" />
 
-# I'm Omar Basheer
+# Omar Basheer
 
 **Backend Engineer at Affinity Africa** · Accra, Ghana
 
