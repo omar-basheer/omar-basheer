@@ -8,7 +8,7 @@
 
 Go · gRPC · microservices · distributed financial systems
 
-[LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](https://docs.google.com/document/d/1y11rrOvaSG-ypddneP_y5YgDkhemW3ESv9P-YB8fX-A/edit?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/o-basheer/) • [Email](mailto:omasheer@gmail.com) • [Resume](https://docs.google.com/document/d/1-AvSy8BsID_a8WAWIdiiG3GjnvsEbgnbLAX0yMfIhJo/edit?usp=sharing)
 
 </div>
 
