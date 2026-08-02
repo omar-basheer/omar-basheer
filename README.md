@@ -24,7 +24,7 @@ At **Affinity Africa**, I'm part of a team replacing our third-party core bankin
 - **Loan servicing** — schedule generation and interest calculation, including amortisation logic that models repayment across loan products.
 - **Test coverage** — unit and integration suites across every core service: configurations, customers, products, accounts, ledger, accounting, documents, approvals, and shared utilities.
 
-Before this, I spent a year at **RedPear Communications** co-building the backend of a digital asset valuation platform — 100+ REST APIs serving 50+ insurers, covering VIN decoding, automated depreciation, AI-driven image verification, payments, subscriptions, and real-time notifications.
+Before this, I spent a year at **RedPear Communications** co-building the backend of a digital asset valuation platform — 100+ REST APIs serving 5+ insurers, covering VIN decoding, automated depreciation, AI-driven image verification, payments, subscriptions, and real-time notifications.
 
 ---
 
