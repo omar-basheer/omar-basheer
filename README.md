@@ -2,7 +2,7 @@
 
 <img src="img/hey.png" width="400" alt="Hey — I'm Omar" />
 
-# Omar Basheer
+# I Am Omar Basheer
 
 **Backend Engineer at Affinity Africa** · Accra, Ghana
 
@@ -16,7 +16,7 @@ Go · gRPC · microservices · distributed financial systems
 
 ## 💼 What I Work On
 
-I build backend systems where correctness actually matters — money movement, ledgers, and the services around them.
+I build backend systems where correctness matters — money movement, ledgers, and the services around them.
 
 At **Affinity Africa**, I'm part of a team replacing our third-party core banking platform with an in-house system: Go microservices communicating over gRPC. The pieces I own:
 
